@@ -16,6 +16,9 @@ Responsive and minimal design for easy use
 
 Built with modern web technologies
 
+*Output*
+<img width="495" height="397" alt="Image" src="https://github.com/user-attachments/assets/bc6b808d-11b3-435b-be19-9803ec31ceff" />
+
  *Tech Stack*
 Frontend: HTML, CSS, JavaScript
 
