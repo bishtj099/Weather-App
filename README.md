@@ -24,7 +24,7 @@ API: OpenWeatherMap (or whichever API you used)
 
 
 
-##*Output*##
+## Output ##
 
 
 <img width="495" height="397" alt="Image" src="https://github.com/user-attachments/assets/bc6b808d-11b3-435b-be19-9803ec31ceff" />
